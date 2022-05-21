@@ -2,6 +2,9 @@ body {
 	background-color: #000000;
 	font-family: "courier", sans-serif;
 	color: #ffe042;
+	width: 100%;
+	height: 100%;
+	margin: 0 0;
 }
 
 a {
@@ -49,15 +52,33 @@ a:hover {
 	max-width: 100%;
 }
 
+.w {
+	padding: 5% 20%;
+	background-color: rgba(0, 0, 0, 0.72);
+	
+}
+
 .t {
 	font-size: 33px;
 	font-family: "book-antiqua";
 	text-align: center;
 }
 
-.me {
+.tt {
+	text-align: center;
+	font-family: "book-antiqua";
+	font-size: 1.4rem;
+}
+
+.sub {
 	font-family: "book-antiqua";
 	font-size: 1.2rem;
+}
+
+.back {
+	position: fixed;
+	top: 20px;
+	left: 20px;
 }
 
 .chapter {
@@ -68,6 +89,7 @@ a:hover {
 .photo {
 	display: block;
 	max-width: 80%;
+	margin: 0 auto;
 }
 
 .foot {
