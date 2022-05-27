@@ -70,6 +70,11 @@ a:hover {
 	font-size: 1.4rem;
 }
 
+.ttt {
+	text-align: center;
+	font-family: "book-antiqua";
+}
+
 .sub {
 	font-family: "book-antiqua";
 	font-size: 1.2rem;
@@ -88,7 +93,7 @@ a:hover {
 
 .photo {
 	display: block;
-	max-width: 80%;
+	max-width: 60%;
 	margin: 0 auto;
 }
 
