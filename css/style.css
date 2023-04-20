@@ -40,7 +40,6 @@ a:hover {
 }
 
 .www {
-	text-align: center;
 	padding: 5% 20%;
 	background-color: rgba(0, 0, 0, 0.72);
 	max-width: 100%;
@@ -59,9 +58,9 @@ a:hover {
 }
 
 .t {
-	font-size: 33px;
-	font-family: "book-antiqua";
 	text-align: center;
+	font-family: "book-antiqua";
+	font-size: 33px;
 }
 
 .tt {
@@ -73,6 +72,10 @@ a:hover {
 .ttt {
 	text-align: center;
 	font-family: "book-antiqua";
+}
+
+.tttt {
+	text-align: center;
 }
 
 .sub {
